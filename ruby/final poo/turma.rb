@@ -3,4 +3,5 @@ class Turma
   def initialize(alunos, professor)
     @alunos = Array.new
     @professor = professor
+  end
 end
