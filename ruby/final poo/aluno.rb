@@ -7,3 +7,4 @@ class Aluno < Pessoa
     super(nome, idade)
     @matricula = matricula
   end
+end
