@@ -7,3 +7,4 @@ class Professor < Pessoa
     super(nome, idade)
     @disciplina = disciplina
   end
+end
